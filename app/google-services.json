@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970323980212",
+    "firebase_url": "https://cameracalculator-ebf57.firebaseio.com",
+    "project_id": "cameracalculator-ebf57",
+    "storage_bucket": "cameracalculator-ebf57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970323980212:android:41fcc07601b11e123b0ce1",
+        "android_client_info": {
+          "package_name": "com.example.splashactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970323980212-uekf7ecjrk53un09g2rri8gs3535u1s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splashactivity",
+            "certificate_hash": "3a191b2b0635209b9d4036f14f037450ae19ddeb"
+          }
+        },
+        {
+          "client_id": "970323980212-q2pjkhts9leg2t6fe3hatbme2mh85nnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVXuWmpBc-XxaclLcwOJnEZt0x800SODg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970323980212-q2pjkhts9leg2t6fe3hatbme2mh85nnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
